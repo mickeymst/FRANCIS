@@ -13,6 +13,7 @@ The code is based on python and will be stored in this repository.
 
 
 ## Citation
+```bibtex
 @inproceedings{yamashita2023fake,
   title={{Fake Resume Attacks: Data Poisoning on Online Job Platforms}},
   author={Yamashita, Michiharu and Tran, Thanh and Lee, Dongwon},
